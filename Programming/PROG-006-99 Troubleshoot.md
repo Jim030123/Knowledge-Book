@@ -13,3 +13,11 @@
 >```
 >
 
+
+## 002: Overflow
+
+```bash
+A RenderFlex overflowed by XX pixels on the right/bottom
+```
+- 如果是 **Column 或 Row 的 overflow**，可以用 `Flexible` 或 `Expanded` + `LayoutBuilder` 配合。    
+- 如果是 **文本内容 overflow**，`TextOverflow.ellipsis` 或 `softWrap: true` 很常用。

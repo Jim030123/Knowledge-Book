@@ -76,7 +76,7 @@ class Ingredient{
 
 
 ## Add images
-1. Open pubspec.yaml in the project root folder.
+1. Open ***pubspec.yaml*** in the project root folder.
 2. Lines specify that ***assets/*** is an the assets folder and must be included with the app. ![[Pasted image 20251018221455.png]]
 >[!info] Notification of modifying ***pubspec.yaml***
 >![[Pasted image 20251018221800.png]]

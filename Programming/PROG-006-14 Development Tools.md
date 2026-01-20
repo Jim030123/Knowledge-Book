@@ -67,5 +67,5 @@ Handy for modifying flex widget layouts in real-time. Support modifying:
 
 6. Click start within the Cross Axis and change the value to stretch.
    ![[Pasted image 20251020202242.png]]
-- Useful when need to inspect and tweak layouts at runtime.
-- Feel free to experiment and play around with the LE. Can create simple column or row widgets to mess around with the layout axis.
+	- Useful when need to inspect and tweak layouts at runtime.
+	- Feel free to experiment and play around with the LE. Can create simple column or row widgets to mess around with the layout axis.

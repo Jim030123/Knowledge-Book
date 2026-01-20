@@ -25,7 +25,7 @@
 .markdown-preview-view h4,
 .markdown-preview-view h5,
 .markdown-preview-view h6 {
-  margin-bottom: 0.75em;
+  margin-bottom: 1em;
 }
 
 /* --- 图片居中 --- */
@@ -52,3 +52,18 @@
   text-align: justify;
   text-justify: inter-word;
 }
+
+/* =============================
+   行距设置（1.5 行距）
+   ============================= */
+
+/* 编辑模式（Source / Live Preview） */
+.cm-s-obsidian .cm-line {
+  line-height: 1.5;
+}
+
+/* 预览模式 */
+.markdown-preview-view {
+  line-height: 1.5;
+}
+

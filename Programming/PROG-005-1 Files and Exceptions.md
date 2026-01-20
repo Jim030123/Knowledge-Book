@@ -1,11 +1,10 @@
 # What is the File
 - Files provide long-term retention of typically large amounts of data, even after the program that created the data terminated, so data maintained in files in persistent.
 - Use JSON to serialize and deserialize objects to facilitate saving  those objects to secondary storage and transmitting which we'll use both the Python Standard Library's csv module and pandas to load and manipulate CSV data.
-- Use with statement , programs typically request and release resource^[files] during program execution. Often, these are in limited supply or can be used only by 1 program at a time.
+- Use with statement, programs typically request and release resource^[files] during program execution. Often, these are in limited supply or can be used only by 1 program at a time.
 
 # What is Exception Handling
 - Indicates an execution-time problem. You've seen exeptions of types ZeroDivisionError, NameError, ValueError, StatisticsError, TypeError, IndexError, KeyError and RuntimeError.
-
 - Show how to deal with exceptions as they occur by using try statements and associated except classes to handle exceptions. 
 # Modes for reading and writing
 - Writing and appending modes create the file if it does not exist.

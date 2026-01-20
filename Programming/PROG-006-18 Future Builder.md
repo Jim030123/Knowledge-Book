@@ -1,5 +1,4 @@
 - ***MockYummyService*** contains asynchronous function that a ***Future*** object. ***FutureBuilder*** helps determine the state of ***Future***.
-
 ```dart title:'explore_page.dart'
 // 1
 return FutureBuilder(

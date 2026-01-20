@@ -75,6 +75,30 @@ body: IndexedStack(
 ```
 
 3. Restart the app.
-
 ![[Pasted image 20251020132100.png]]
 
+# Navigating.push
+```dart title:'lib/components/restaurant_landscape_card.dart'
+// 1
+Navigator.push(
+	
+	// 2
+	context,
+	
+	// 3
+	MaterialPageRoute(
+		// 4
+		builder: (context) => 
+			RestaurantPage(
+				restaurant: widget.restaurant,
+			)
+	),
+);
+```
+
+| Section | Description                                                                           |
+| ------- | ------------------------------------------------------------------------------------- |
+| 1       | ***Navigator.push*** start the navigation to a new screens                            |
+| 2       | ***context*** tells Flutter where the navigation starts from within the widget tree.  |
+| 3       | ***MatrialPageRoute*** used to create a route with a standard transition animation.   |
+| 4       | Navigate to RestaurantPage and pass in the current restaurant object to be displayed. |

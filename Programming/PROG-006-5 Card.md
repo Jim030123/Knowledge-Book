@@ -3,7 +3,6 @@
 >Music app might have labels for an labels for an album's title, artist and release date along with an image for the album cover and maybe a control for rating it with stars.
 
 ![[Pasted image 20251018223407.png]]
-
 # Card Widget
 ```dart
 Widget buildRecipeCard (Recipe recipe){
@@ -28,7 +27,6 @@ Widget buildRecipeCard (Recipe recipe){
 }
 ```
 
-
 | Section | Description                                                                                                    |
 | ------- | -------------------------------------------------------------------------------------------------------------- |
 | 1       | Return a ***Card*** from ***buildRecipeCard()***.                                                              |
@@ -36,13 +34,10 @@ Widget buildRecipeCard (Recipe recipe){
 | 3       | ***Column*** has 2 childeren.                                                                                  |
 | 4       | ***Image(image: AssetImage())*** - the Image fetched from the local asst bundle defined in ***pubspec.yaml***. |
 | 5       | ***Text*** - It will contain the ***recipe.label*** value.                                                     |
-
 ```dart
 return buildRecipeCard(Recipe.samples[index]);
 ```
-
-
-# After some modify
+# RoundedRectangleBorder
 ```dart
 Card (
 

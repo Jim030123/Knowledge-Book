@@ -37,10 +37,10 @@ class _HomeState extends State<Home> {
 	Widget build(BuildContext context){
 	
 		return Scaffold(
-			appBar(
+				appbar: AppBar(
 				elevation: 4.0
 				backgroundColor: Theme.of(context).colorScheme.background,
-				action:[
+				actions:[
 					ThemeButton(
 						changeThemeMode: widget.changeTheme,
 					),

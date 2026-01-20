@@ -1,5 +1,4 @@
 - To allow the user to adjust the number of servings.
-
 ```dart title:'recipe_detail.dart'
 int _sliderVal = 1;
 
@@ -28,7 +27,6 @@ Slider(
 	inactiveColor: Colors.black,
 ),
 ```
-
 
 | Section | Description                                                                                                                                                                                          |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

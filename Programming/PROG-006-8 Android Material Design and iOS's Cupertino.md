@@ -1,4 +1,4 @@
-	
+
 ```dart
 import 'package:flutter/material.dart';
 
@@ -42,7 +42,6 @@ enum ColorSelection{
 | ------- | -------------------------------------- |
 | 1       | Structured color options.              |
 | 2       | Each has a ***label*** and ***color*** |
-
 # Applying the Theme
 
 - Import predefined color themes
@@ -87,8 +86,6 @@ const Yummt({super.key});
 
 # Switching Themes
 - Need to manage state by converting the ***Yummy*** widget to a ***StatefulWidget***.
-
-## Step
 1. Right click the class name ***Yummy***. Then click ***Show Context Actions*** from the menu that pops up:
 ![[Pasted image 20251020100044.png]]
 
@@ -116,12 +113,10 @@ class _YummyState extends State<Yummy>{
 }
 ```
 
-
 | Section | Description                                                                                                                  |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | 1       | The refactor converted Yummy from a ***StatelessWidget*** into a ***StatefulWidget***.<br><br>It added a ***createState()*** |
 | 2       | Refactor also created the  ***\_YummyState*** class. It stores mutable data that can change over the lifetime of the widget. |
-
 # Implementing Theme State Changes
 ```dart title:'main.dart'
 class _YummyState extends State<Yummy> {
@@ -152,7 +147,6 @@ class _YummyState extends State<Yummy> {
 | ------- | ------------------------------------------ |
 | 1       | Update theme mode based on user selection. |
 | 2       | Update theme color based on user selection |
-
 # Creating a Theme Button
 ```dart title:'theme_button.dart'
 import 'package:flutter/material.dart';
@@ -194,7 +188,6 @@ class ThemeButton extends Stateless Widget{
 | 3       | ***isBright*** - Boolean that checks wheteher the current theme brightness is light.                                                                                                                                            |
 | 4       | ***IconButton*** - that will display light or dark mode based on the ***isBright Boolean***.                                                                                                                                    |
 | 5       | ***IconButton*** when pressed, toggles the theme brightness by invoking ***changeThemeMode***.                                                                                                                                  |
-
 # Creating the Color Button
 ```dart title:'lib/component/color_button.dart'
 import 'package:flutter/material.dart';
@@ -281,7 +274,6 @@ class ColorButton extends StatelessWidget{
 import 'components/theme_button.dart';
 import 'components/color_button.dart';
 ```
-
 2. Add action buttons.
 ```dart title:''
 action:[
@@ -294,6 +286,5 @@ action:[
 	),
 ],
 ```
-
 3. Hot restart, switch between light and dark mode.
 ![[Pasted image 20251020122729.png]]
