@@ -1,7 +1,6 @@
 ---
 done: true
 ---
-
 # Why we need?
 - To end user, the interface is the system. Most end users do not know nor do they even need to know, about the underlying structure and implementation of the software system. They are concerned only with the interface presented to them and the capabilities provided by that interface.
 - The analogy of driving a car: the driver does not need to know anything about how an internal combustion engine works and how it is connected to the transmission to send power to the wheels, nor do they need to know about hydraulics and fluid dynamics of the braking system to actually drive a car. Indeed, mainly the driver  needs to know that "D" means drive, press gas pedal to go, press brake pedal to stop.^[Automatic transmission]

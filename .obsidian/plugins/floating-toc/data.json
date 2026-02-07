@@ -1,0 +1,17 @@
+{
+  "ignoreHeaders": "",
+  "ignoreTopHeader": false,
+  "positionStyle": "left",
+  "isLoadOnMobile": true,
+  "isLeft": false,
+  "isDefaultPin": true,
+  "isTooltip": true,
+  "defaultCollapsedLevel": 6,
+  "expandAllSubheadings": true,
+  "isDefaultHide": false,
+  "enableHeadingNowrap": false,
+  "barStyle": "enable-edge-style",
+  "enableBarHeadingText": true,
+  "enableContentOffset": true,
+  "enableDragReorder": true
+}

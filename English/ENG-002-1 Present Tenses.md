@@ -19,7 +19,7 @@ done: true
 >[!example] Sentences
 >- I want to go home.
 
-## Present Perfect^[有影响到现在才用]
+## Present Perfect
 - For experiences in our life without saying when they happened.
 >[!example] Sentences
 >- I've seen this film three times.

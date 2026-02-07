@@ -1,0 +1,7 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - '!file.inFolder("GIT/attachments")'
+        - file.inFolder("GIT")

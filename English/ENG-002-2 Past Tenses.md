@@ -12,7 +12,7 @@ done: true
 >[!example] Sentences
 >- I lost my phone last week, but then I found it in my car.
 
-## Past Perfect^[有影响到现在才用]
+## Past Perfect
 - For action s and events that happened before a particular moment in time.
 >[!example] Sentences
 >- I decided to walk home because I had forgotten my bus pass.

@@ -29,10 +29,8 @@
 ## Adding Stateful Widgets
 - ***RestaurantLandscapeCard*** is currently a ***StatelessWidget***, which means the widget can't manage state dynamically. To fix this, will change this card into a ***StatefulWidget***.
 1. Open ***restaurant_landscape_card.dart*** and right click ***RestaurantLandscapeCard***.
-2. Click ***Show Content Actions*** from the menu that pops up. 
-   ![[Pasted image 20251020221620.png]]
-3. Select ***Convert to StatefulWidget***.
-   ![[Pasted image 20251020221856.png]]
+2. Click ***Show Content Actions*** from the menu that pops up. ![[Pasted image 20251020221620.png]]
+3. Select ***Convert to StatefulWidget***.![[Pasted image 20251020221856.png]]
 ```dart  title:'restaurant_landscape_card.dart'
 class RestaurantLandscapeCard extends StatefulWidget{
 	...

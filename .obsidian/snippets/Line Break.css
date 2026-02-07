@@ -9,13 +9,13 @@
 }
 
 .cm-s-obsidian .cm-line.HyperMD-list-line {
-  padding-bottom: 0.75em; /* 编辑模式下列表的间距 */
+  padding-bottom: 1em; /* 编辑模式下列表的间距 */
 }
 
 /* --- 标题留空行 --- */
 /* 编辑模式标题 */
 .cm-s-obsidian .cm-line.HyperMD-header {
-  margin-bottom: 0.75em;
+  margin-bottom: 1em;
 }
 
 /* 预览模式标题 */
@@ -42,9 +42,11 @@
   text-justify: inter-word;
 }
 
-.markdown-preview-view {
+.markdown-preview-view p,
+.markdown-preview-view li,
+.markdown-reading-view p,
+.markdown-reading-view li {
   text-align: justify;
-  text-justify: inter-word;
 }
 
 /* 编辑模式全局两端对齐 */
