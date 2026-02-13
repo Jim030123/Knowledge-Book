@@ -1,0 +1,4 @@
+- Show how to set up Git to ignore certain file and file patterns
+- How to undo mistakes quickly and easily.
+- How to browse the history of project and view changes between commits
+- How to push and pull from remote repositories.

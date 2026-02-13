@@ -9,7 +9,9 @@ git config --global user.email "jimngyinggeemicky@gmail.com"
 - Want to override this with a different name or email address, run the command without ***--global*** the option when you're in the project.
 # Set Editor
 ```bash
-git config --global core.editor emacs // Linux Based
+# Linux Based
+git config --global core.editor emacs
+
 git config --global core.editor "'C:/Program Files/Notepad+/notepad++.exe' -multiInst -notabbar -nosession -noPlugin" 
 ```
 - Vim, Emacs and Notepad++ are popular text editor often used by developers on Unix-based systems
