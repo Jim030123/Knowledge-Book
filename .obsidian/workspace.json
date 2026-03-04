@@ -4,95 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "4783fa417f366d7a",
+        "id": "9507db05d50a3ed0",
         "type": "tabs",
         "children": [
           {
-            "id": "5e09e6308efcf7fd",
+            "id": "7b582418c995e13f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/GIT-001-7 Git Help.md",
+                "file": "Hardware Engineering/HE-001-2 Buzzer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIT-001-7 Git Help"
+              "title": "HE-001-2 Buzzer"
             }
           },
           {
-            "id": "ba34ce016191591e",
+            "id": "cfbb61522c7f9366",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/GIT-002 Git Basics.md",
-                "mode": "source",
+                "file": "Hardware Engineering/HE-001-3 LED.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIT-002 Git Basics"
+              "title": "HE-001-3 LED"
             }
           },
           {
-            "id": "2a8cd923498efc88",
+            "id": "a4093ecaae3fc540",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/GIT-002-1 Getting a Git Repository.md",
+                "file": "Hardware Engineering/HE-002-6 General Purpose Input Output (GPIO).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIT-002-1 Getting a Git Repository"
+              "title": "HE-002-6 General Purpose Input Output (GPIO)"
             }
           },
           {
-            "id": "9f0cbff108256eec",
+            "id": "f3d0f88ef5087ca7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/GIT-002-2 Recording Changes to the Repository.md",
+                "file": "Hardware Engineering/HE-001-3 LED.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIT-002-2 Recording Changes to the Repository"
+              "title": "HE-001-3 LED"
             }
           },
           {
-            "id": "bbc869c02911c8e3",
+            "id": "1eaf096d2162dad6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/GIT-002-2 Recording Changes to the Repository.md",
+                "file": "Hardware Engineering/HE-001-4 DS18B20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIT-002-2 Recording Changes to the Repository"
+              "title": "HE-001-4 DS18B20"
             }
           },
           {
-            "id": "02bae168727aa27e",
+            "id": "d54bbe27816910cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/GIT-002-99 Troubleshooting.md",
+                "file": "Hardware Engineering/HE-001-4 DS18B20.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HE-001-4 DS18B20"
+            }
+          },
+          {
+            "id": "29b116dba2e6e6a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hardware Engineering/HE-002-5 Transmit (TX) and Received (RX).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIT-002-99 Troubleshooting"
+              "title": "HE-002-5 Transmit (TX) and Received (RX)"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -265,56 +279,57 @@
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "bbc869c02911c8e3",
+  "active": "d54bbe27816910cd",
   "lastOpenFiles": [
+    "Hardware Engineering/HE-001-3 LED.md",
+    "Hardware Engineering/HE-001-4 DS18B20.md",
+    "Hardware Engineering/HE-002-1 Connect to Breadboard.md",
+    "Hardware Engineering/HE-001-1 ESP32.md",
+    "Hardware Engineering/HE-002-5 Transmit (TX) and Received (RX).md",
+    "Hardware Engineering/HE-002-4 Inter-Integrated Circuit (I2C).md",
+    "Hardware Engineering/attachments/Pasted image 20260304113814.png",
+    "Hardware Engineering/HE-003 Print System Information.md",
+    "Hardware Engineering/HE-999-1 Chiller Temperature Monitoring & Alert System.md",
+    "Hardware Engineering/attachments/Pasted image 20260304113017.png",
+    "Hardware Engineering/attachments/Pasted image 20260304112559.png",
+    "Hardware Engineering/HE-002-6 General Purpose Input Output (GPIO).md",
+    "Hardware Engineering/attachments/Pasted image 20260304110742.png",
+    "Hardware Engineering/HE-001-2 Buzzer.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Source/S-013 KMS Windows.md",
+    "Hardware Engineering/attachments/Pasted image 20260303105013.png",
+    "Hardware Engineering/attachments",
+    "GIT/TOC.base",
+    "Hardware Engineering",
     "GIT/attachments/Pasted image 20260213100747.png",
     "GIT/attachments/Pasted image 20260213100736.png",
-    "GIT/GIT-002-99 Troubleshooting.md",
     "GIT/attachments/Pasted image 20260213095712.png",
-    "GIT/GIT-002-2 Recording Changes to the Repository.md",
-    "GIT/GIT100-1 GitHub Page.md",
     "GIT/attachments/Pasted image 20260213095152.png",
     "GIT/attachments/Pasted image 20260210002359.png",
-    "GIT/attachments/Pasted image 20260210002120.png",
-    "GIT/attachments/Pasted image 20260213095049.png",
-    "Web/WEB-004-1 Set up a New Account.md",
-    "Web/WEB005- Mock Up Phone.md",
-    "Web/WEB-004 LinkedIn.md",
-    "GIT/attachments/Pasted image 20260210001853.png",
-    "GIT/attachments/Pasted image 20260210001626.png",
-    "GIT/GIT-001-6 Git Configuration.md",
-    "GIT/GIT-001-4 Snapshot.md",
-    "GIT/GIT-001-3 History of Git.md",
-    "English/ENG-002-9 Tenses 1.md",
-    "GIT/attachments/Pasted image 20260209093922.png",
-    "GIT/attachments/Pasted image 20260209093641.png",
-    "GIT/GIT-001-7 Git Help.md",
-    "GIT/GIT-002 Git Basics.md",
-    "GIT/GIT-002-1 Getting a Git Repository.md",
-    "GIT/GIT-001 Getting Started.md",
-    "GIT/GIT-001-1 Version Control (VC).md",
-    "2026-02-07.md",
-    "GIT/TOC.base",
-    "GIT/GIT-001-5 Command Line.md",
-    "Virtual Machine/VM-001-1 Full screen.md",
     "Virtual Machine",
-    "GIT/GIT-001-2 Revision Control System (RCS).md",
-    "Powerpoint/PPT-001 高级排版.md",
-    "Powerpoint/PPT-000.md",
     "Powerpoint/attachments",
-    "Powerpoint/Untitled.md",
-    "Web/WEB-003 turboSMTP.md",
-    "Programming/PROG-006-15 Types of Widgets.md",
-    "English/ENG-002 Tenses.md",
     "GIT/attachments",
     "Knowledge-Book/Bases.base",
-    "Think",
-    "Source/attachments",
-    "Help",
-    "Powerpoint",
-    "General Education"
+    "Think"
   ]
 }
