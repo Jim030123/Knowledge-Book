@@ -83,12 +83,124 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware Engineering/HE-001-4 DS18B20.md",
-                "mode": "preview",
+                "file": "Hardware Engineering/HE-003 Arduino IDE.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HE-001-4 DS18B20"
+              "title": "HE-003 Arduino IDE"
+            }
+          },
+          {
+            "id": "5a98929d62ed6dc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hardware Engineering/HE-100 ESP32.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HE-100 ESP32"
+            }
+          },
+          {
+            "id": "25ae1d7483ad8eaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hardware Engineering/HE-901 Chiller Temperature Monitoring & Alert System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HE-901 Chiller Temperature Monitoring & Alert System"
+            }
+          },
+          {
+            "id": "0ba558a71490c892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hardware Engineering/HE-901 Chiller Temperature Monitoring & Alert System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HE-901 Chiller Temperature Monitoring & Alert System"
+            }
+          },
+          {
+            "id": "6215e158564735d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hardware Engineering/HE-001-1 ESP32.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HE-001-1 ESP32"
+            }
+          },
+          {
+            "id": "6e532775a12e31eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hardware Engineering/HE-900-1 Blink LED.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HE-900-1 Blink LED"
+            }
+          },
+          {
+            "id": "9ee2588508678fc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hardware Engineering/HE-101 Breadboard Friendly Setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HE-101 Breadboard Friendly Setup"
+            }
+          },
+          {
+            "id": "0d0332a49af6e939",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hardware Engineering/HE-003 Arduino IDE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HE-003 Arduino IDE"
+            }
+          },
+          {
+            "id": "2e7f791b28d86879",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hardware Engineering/HE-102-1 Digital Input.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HE-102-1 Digital Input"
             }
           },
           {
@@ -97,16 +209,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware Engineering/HE-002-5 Transmit (TX) and Received (RX).md",
+                "file": "Hardware Engineering/HE-900-2 LED with Button Switch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HE-002-5 Transmit (TX) and Received (RX)"
+              "title": "HE-900-2 LED with Button Switch"
+            }
+          },
+          {
+            "id": "99e496cd2f9263b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hardware Engineering/HE-900-3 Touch Sensitive LED.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HE-900-3 Touch Sensitive LED"
+            }
+          },
+          {
+            "id": "77f808290039b678",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hardware Engineering/HE-102-1 Digital Input.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HE-102-1 Digital Input"
+            }
+          },
+          {
+            "id": "8bde8a93fd0d8f2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hardware Engineering/HE-102-2 LED Coding.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HE-102-2 LED Coding"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -283,49 +437,49 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "d54bbe27816910cd",
+  "active": "8bde8a93fd0d8f2c",
   "lastOpenFiles": [
-    "Hardware Engineering/HE-001-3 LED.md",
+    "Hardware Engineering/HE-102-1 Digital Input.md",
+    "Hardware Engineering/HE-102-2 LED Coding.md",
+    "Hardware Engineering/HE-102 Coding.md",
+    "Hardware Engineering/HE-900-4 LED Pulse-Width Modulation (PWM).md",
+    "Hardware Engineering/HE-900-3 Touch Sensitive LED.md",
+    "Hardware Engineering/HE-900-2 LED with Button Switch.md",
     "Hardware Engineering/HE-001-4 DS18B20.md",
-    "Hardware Engineering/HE-002-1 Connect to Breadboard.md",
-    "Hardware Engineering/HE-001-1 ESP32.md",
+    "Hardware Engineering/HE-900-1 Blink LED.md",
+    "Hardware Engineering/attachments/Pasted image 20260305121438.png",
+    "Hardware Engineering/HE-901 Chiller Temperature Monitoring & Alert System.md",
+    "Hardware Engineering/HE-999-99 Platform IO.md",
+    "Hardware Engineering/HE100-2 Touch Sensor.md",
+    "Hardware Engineering/HE-003-1 Uploading the Sketch.md",
     "Hardware Engineering/HE-002-5 Transmit (TX) and Received (RX).md",
-    "Hardware Engineering/HE-002-4 Inter-Integrated Circuit (I2C).md",
-    "Hardware Engineering/attachments/Pasted image 20260304113814.png",
-    "Hardware Engineering/HE-003 Print System Information.md",
-    "Hardware Engineering/HE-999-1 Chiller Temperature Monitoring & Alert System.md",
-    "Hardware Engineering/attachments/Pasted image 20260304113017.png",
-    "Hardware Engineering/attachments/Pasted image 20260304112559.png",
-    "Hardware Engineering/HE-002-6 General Purpose Input Output (GPIO).md",
-    "Hardware Engineering/attachments/Pasted image 20260304110742.png",
-    "Hardware Engineering/HE-001-2 Buzzer.md",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "Hardware Engineering/HE-003 Arduino IDE.md",
+    "Hardware Engineering/attachments/Pasted image 20260305121114.png",
+    "Hardware Engineering/attachments/Pasted image 20260305121111.png",
+    "Hardware Engineering/attachments/Pasted image 20260305120859.png",
+    "Hardware Engineering/attachments/Pasted image 20260305120846.png",
+    "Hardware Engineering/attachments/Pasted image 20260305120134.png",
+    "Hardware Engineering/HE-100-1 WiFi Testing.md",
+    "Hardware Engineering/HE-100 ESP32.md",
+    "Hardware Engineering/attachments/Pasted image 20260305115811.png",
+    "Hardware Engineering/HE-101 Breadboard Friendly Setup.md",
+    "Hardware Engineering/HE-199 Troubleshooting Tip.md",
+    "Hardware Engineering/attachments/Pasted image 20260305110341.png",
+    "Hardware Engineering/attachments/Pasted image 20260305110311.png",
+    "Hardware Engineering/HE-900 Project List.md",
+    "Hardware Engineering/HE-002-1 Connect to Breadboard.md",
+    "Hardware Engineering/HE-001-3 LED.md",
+    "Hardware Engineering/HE-001-1 ESP32.md",
+    "Programming/PROG-006-14 Development Tools.md",
+    "Hardware Engineering/attachments/Pasted image 20260305103619.png",
+    "Hardware Engineering/HE-002-7 Universal Asynchronous Receiver Transmitter (UART).md",
+    "Programming/PROG-006-98 pubspec.yaml.md",
+    "Programming/PROG-006-99 Troubleshoot.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "Source/S-013 KMS Windows.md",
-    "Hardware Engineering/attachments/Pasted image 20260303105013.png",
     "Hardware Engineering/attachments",
     "GIT/TOC.base",
     "Hardware Engineering",
-    "GIT/attachments/Pasted image 20260213100747.png",
-    "GIT/attachments/Pasted image 20260213100736.png",
-    "GIT/attachments/Pasted image 20260213095712.png",
-    "GIT/attachments/Pasted image 20260213095152.png",
-    "GIT/attachments/Pasted image 20260210002359.png",
     "Virtual Machine",
     "Powerpoint/attachments",
     "GIT/attachments",

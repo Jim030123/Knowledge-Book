@@ -7,3 +7,4 @@ It allows to devices to send and received and using data using only TX and RX.
 # RX
 - Received data to computer
 - Received data to GPS
+

@@ -1,4 +1,4 @@
-# 001: Flutter Doctor: Unable to determine bundled Java Version
+# 001 - Flutter Doctor: Unable to determine bundled Java Version
 ![[Pasted image 20251017222912.png]]
 
 >[!tip] Solution
@@ -14,7 +14,7 @@
 >
 
 
-## 002: Overflow
+## 002 - Overflow
 
 ```bash
 A RenderFlex overflowed by XX pixels on the right/bottom
