@@ -41,3 +41,9 @@ Touch the wire connected to GPIO 4 and will see the values decreasing.
 Tools > Serial Plotter
 ![[Pasted image 20260305120859.png]]
 
+# analogRead()
+- ESP32 supports measurements in 18 different channels. But only 15 are available in the DEVKIT V1 DOIT board.
+```cpp
+analogRead(GPIO)
+```
+![[Pasted image 20260306093055.png]]

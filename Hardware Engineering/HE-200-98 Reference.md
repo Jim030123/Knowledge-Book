@@ -1,0 +1,1 @@
+https://www.kicad.org/made-with-kicad/

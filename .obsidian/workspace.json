@@ -4,263 +4,151 @@
     "type": "split",
     "children": [
       {
-        "id": "9507db05d50a3ed0",
+        "id": "0bf13dcef0e0c3e4",
         "type": "tabs",
         "children": [
           {
-            "id": "7b582418c995e13f",
+            "id": "e4882308d5aaeb01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware Engineering/HE-001-2 Buzzer.md",
+                "file": "Hardware Engineering/HE-199 Troubleshooting Tip.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HE-001-2 Buzzer"
+              "title": "HE-199 Troubleshooting Tip"
             }
           },
           {
-            "id": "cfbb61522c7f9366",
+            "id": "656a49b27f1ee86e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware Engineering/HE-001-3 LED.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HE-001-3 LED"
-            }
-          },
-          {
-            "id": "a4093ecaae3fc540",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hardware Engineering/HE-002-6 General Purpose Input Output (GPIO).md",
+                "file": "Hardware Engineering/HE-200 KiCad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HE-002-6 General Purpose Input Output (GPIO)"
+              "title": "HE-200 KiCad"
             }
           },
           {
-            "id": "f3d0f88ef5087ca7",
+            "id": "56cb1ba7aa512b15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware Engineering/HE-001-3 LED.md",
+                "file": "Hardware Engineering/HE-900-7 Read Hall Effect Sensor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HE-001-3 LED"
+              "title": "HE-900-7 Read Hall Effect Sensor"
             }
           },
           {
-            "id": "1eaf096d2162dad6",
+            "id": "b37e0bc7a9637d2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware Engineering/HE-001-4 DS18B20.md",
+                "file": "Hardware Engineering/HE-200-98 Shortcut.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HE-001-4 DS18B20"
+              "title": "HE-200-98 Shortcut"
             }
           },
           {
-            "id": "d54bbe27816910cd",
+            "id": "f7830973a6219ce3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware Engineering/HE-003 Arduino IDE.md",
+                "file": "Hardware Engineering/HE-200 KiCad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HE-003 Arduino IDE"
+              "title": "HE-200 KiCad"
             }
           },
           {
-            "id": "5a98929d62ed6dc9",
+            "id": "549eaf6ac322d958",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware Engineering/HE-100 ESP32.md",
+                "file": "Hardware Engineering/HE-200-1 Project manager.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HE-100 ESP32"
+              "title": "HE-200-1 Project manager"
             }
           },
           {
-            "id": "25ae1d7483ad8eaa",
+            "id": "c028ebba4a9d99a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware Engineering/HE-901 Chiller Temperature Monitoring & Alert System.md",
+                "file": "Hardware Engineering/HE-200-3 Preference Window.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HE-901 Chiller Temperature Monitoring & Alert System"
+              "title": "HE-200-3 Preference Window"
             }
           },
           {
-            "id": "0ba558a71490c892",
+            "id": "869542bb7a24ce03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware Engineering/HE-901 Chiller Temperature Monitoring & Alert System.md",
+                "file": "Hardware Engineering/HE-200-98 Shortcut.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HE-901 Chiller Temperature Monitoring & Alert System"
+              "title": "HE-200-98 Shortcut"
             }
           },
           {
-            "id": "6215e158564735d2",
+            "id": "076882e0856da844",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware Engineering/HE-001-1 ESP32.md",
+                "file": "Hardware Engineering/HE-201-1 MQTT Publisher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HE-001-1 ESP32"
+              "title": "HE-201-1 MQTT Publisher"
             }
           },
           {
-            "id": "6e532775a12e31eb",
+            "id": "e4ce27074b6acd2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware Engineering/HE-900-1 Blink LED.md",
+                "file": "Hardware Engineering/HE-200-98 Shortcut.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HE-900-1 Blink LED"
-            }
-          },
-          {
-            "id": "9ee2588508678fc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hardware Engineering/HE-101 Breadboard Friendly Setup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HE-101 Breadboard Friendly Setup"
-            }
-          },
-          {
-            "id": "0d0332a49af6e939",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hardware Engineering/HE-003 Arduino IDE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HE-003 Arduino IDE"
-            }
-          },
-          {
-            "id": "2e7f791b28d86879",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hardware Engineering/HE-102-1 Digital Input.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HE-102-1 Digital Input"
-            }
-          },
-          {
-            "id": "29b116dba2e6e6a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hardware Engineering/HE-900-2 LED with Button Switch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HE-900-2 LED with Button Switch"
-            }
-          },
-          {
-            "id": "99e496cd2f9263b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hardware Engineering/HE-900-3 Touch Sensitive LED.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HE-900-3 Touch Sensitive LED"
-            }
-          },
-          {
-            "id": "77f808290039b678",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hardware Engineering/HE-102-1 Digital Input.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HE-102-1 Digital Input"
-            }
-          },
-          {
-            "id": "8bde8a93fd0d8f2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hardware Engineering/HE-102-2 LED Coding.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HE-102-2 LED Coding"
+              "title": "HE-200-98 Shortcut"
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -292,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Short",
+                "query": "falling",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -413,6 +301,16 @@
               "icon": "lucide-list",
               "title": "Outline of ENG-006 Interpreting Graphical Data"
             }
+          },
+          {
+            "id": "0b760dc94bdf6867",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ]
       }
@@ -437,44 +335,45 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "8bde8a93fd0d8f2c",
+  "active": "b3e69c0647281a93",
   "lastOpenFiles": [
-    "Hardware Engineering/HE-102-1 Digital Input.md",
-    "Hardware Engineering/HE-102-2 LED Coding.md",
-    "Hardware Engineering/HE-102 Coding.md",
-    "Hardware Engineering/HE-900-4 LED Pulse-Width Modulation (PWM).md",
-    "Hardware Engineering/HE-900-3 Touch Sensitive LED.md",
-    "Hardware Engineering/HE-900-2 LED with Button Switch.md",
-    "Hardware Engineering/HE-001-4 DS18B20.md",
+    "Editing",
+    "Hardware Engineering/HE-200-98 Shortcut.md",
+    "Hardware Engineering/HE-201-1 MQTT Publisher.md",
+    "Hardware Engineering/HE-200-4 Symbol Editor.md",
+    "Hardware Engineering/HE-200-3 Preference Window.md",
+    "Hardware Engineering/HE-200 KiCad.md",
+    "Hardware Engineering/attachments/Pasted image 20260312092609.png",
+    "Hardware Engineering/attachments/Pasted image 20260312092404.png",
+    "Hardware Engineering/HE-200-1 Project manager.md",
+    "Hardware Engineering/HE-200-2 Create a new directory.md",
+    "Hardware Engineering/HE-900 Project List.md",
+    "Hardware Engineering/attachments/Pasted image 20260311114702.png",
+    "Hardware Engineering/attachments/Pasted image 20260311113452.png",
+    "Hardware Engineering/attachments/Pasted image 20260311112734.png",
+    "Hardware Engineering/HE-200-98 Reference.md",
+    "Hardware Engineering/attachments/Pasted image 20260311111326.png",
+    "Hardware Engineering/HE-900-7 Read Hall Effect Sensor.md",
+    "Hardware Engineering/attachments/Pasted image 20260311110933.png",
+    "Hardware Engineering/attachments/Pasted image 20260311110928.png",
+    "Hardware Engineering/attachments/Pasted image 20260311105657.png",
+    "Hardware Engineering/attachments/Pasted image 20260311103900.png",
+    "Hardware Engineering/HE-199 Troubleshooting Tip.md",
     "Hardware Engineering/HE-900-1 Blink LED.md",
-    "Hardware Engineering/attachments/Pasted image 20260305121438.png",
-    "Hardware Engineering/HE-901 Chiller Temperature Monitoring & Alert System.md",
-    "Hardware Engineering/HE-999-99 Platform IO.md",
-    "Hardware Engineering/HE100-2 Touch Sensor.md",
-    "Hardware Engineering/HE-003-1 Uploading the Sketch.md",
-    "Hardware Engineering/HE-002-5 Transmit (TX) and Received (RX).md",
-    "Hardware Engineering/HE-003 Arduino IDE.md",
-    "Hardware Engineering/attachments/Pasted image 20260305121114.png",
-    "Hardware Engineering/attachments/Pasted image 20260305121111.png",
-    "Hardware Engineering/attachments/Pasted image 20260305120859.png",
-    "Hardware Engineering/attachments/Pasted image 20260305120846.png",
-    "Hardware Engineering/attachments/Pasted image 20260305120134.png",
+    "Hardware Engineering/HE-102-2 LED Coding.md",
+    "Hardware Engineering/HE-100-2 Touch Sensor.md",
     "Hardware Engineering/HE-100-1 WiFi Testing.md",
     "Hardware Engineering/HE-100 ESP32.md",
-    "Hardware Engineering/attachments/Pasted image 20260305115811.png",
-    "Hardware Engineering/HE-101 Breadboard Friendly Setup.md",
-    "Hardware Engineering/HE-199 Troubleshooting Tip.md",
-    "Hardware Engineering/attachments/Pasted image 20260305110341.png",
-    "Hardware Engineering/attachments/Pasted image 20260305110311.png",
-    "Hardware Engineering/HE-900 Project List.md",
-    "Hardware Engineering/HE-002-1 Connect to Breadboard.md",
-    "Hardware Engineering/HE-001-3 LED.md",
-    "Hardware Engineering/HE-001-1 ESP32.md",
-    "Programming/PROG-006-14 Development Tools.md",
-    "Hardware Engineering/attachments/Pasted image 20260305103619.png",
-    "Hardware Engineering/HE-002-7 Universal Asynchronous Receiver Transmitter (UART).md",
+    "Programming/PROG-010-1 Pattern Matching With Regular Expression.md",
+    "Programming/PROG-010 Python Data Science.md",
+    "Programming/PROG-005-3 Numpy.md",
+    "Programming/PROG-005 Python Basic.md",
+    "Programming/PROG-008- 99 Describe Table as JSON.md",
+    "Programming/PROG-006-97 Other Widget.md",
     "Programming/PROG-006-98 pubspec.yaml.md",
-    "Programming/PROG-006-99 Troubleshoot.md",
+    "Programming/PROG-006-24 Segment Control.md",
+    "Programming/PROG-006-9 Navigation.md",
+    "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Hardware Engineering/attachments",
@@ -483,7 +382,6 @@
     "Virtual Machine",
     "Powerpoint/attachments",
     "GIT/attachments",
-    "Knowledge-Book/Bases.base",
-    "Think"
+    "Knowledge-Book/Bases.base"
   ]
 }

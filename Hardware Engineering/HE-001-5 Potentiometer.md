@@ -1,0 +1,1 @@
+- 3 terminal passive electronic component that acts as an adjustable voltage divider by using a manually controlled as wiper sliding over a resistive element.

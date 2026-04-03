@@ -1,0 +1,5 @@
+- Can detect variations in the magnetic field in its surroundings. The greater the magnetic field, the greater the output voltage.
+	- Detect proximity
+	- Calculate positioning
+	- Count the number of revolutions of a wheel
+	- Detect a door closing

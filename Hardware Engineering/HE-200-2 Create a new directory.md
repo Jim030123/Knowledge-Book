@@ -1,0 +1,1 @@
+- KiCad project will contain files that KiCad creates and files created by tools like Autorouting autorouter and Git.
