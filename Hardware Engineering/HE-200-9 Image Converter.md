@@ -1,0 +1,1 @@
+- Can convert a bitmap image into a footprint. Typical uses of the converter ae to create a graphics footprint or a footprint with an irregular shape that would be too tedious to design in the footprint editor.
