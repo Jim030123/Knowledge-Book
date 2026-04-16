@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware Engineering/HE-200-18 Fundamental KiCad Tools.md",
+                "file": "Hardware Engineering/HE-200-15 The workflow for THT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HE-200-18 Fundamental KiCad Tools"
+              "title": "HE-200-15 The workflow for THT"
+            }
+          },
+          {
+            "id": "e2e78ba8dec0fdaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hardware Engineering/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
             }
           },
           {
@@ -176,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b359fd795e30f6cd",
@@ -308,21 +323,22 @@
   },
   "active": "f0273b2a94bd2ea9",
   "lastOpenFiles": [
-    "Hardware Engineering/attachments/Pasted image 20260416105430.png",
-    "Hardware Engineering/attachments/Pasted image 20260415124337.png",
-    "Hardware Engineering/HE-200-18 Fundamental KiCad Tools.md",
-    "Hardware Engineering/attachments/Pasted image 20260416102521.png",
-    "Hardware Engineering/attachments/Pasted image 20260416102445.png",
-    "Hardware Engineering/attachments/Pasted image 20260416101724.png",
-    "Hardware Engineering/attachments/Pasted image 20260416101704.png",
-    "Hardware Engineering/attachments/Pasted image 20260416100750.png",
-    "Hardware Engineering/attachments/Pasted image 20260416100301.png",
-    "Hardware Engineering/attachments/Pasted image 20260416100126.png",
-    "Hardware Engineering/attachments/Pasted image 20260416095913.png",
-    "Hardware Engineering/attachments/Pasted image 20260416095906.png",
-    "Hardware Engineering/HE-200-16 Design Principles.md",
-    "Hardware Engineering/HE-200-17 PCB layout workflow.md",
+    "Hardware Engineering/attachments/Pasted image 20260416171542.png",
+    "Hardware Engineering/attachments/Pasted image 20260416171538.png",
+    "Hardware Engineering/attachments/Pasted image 20260416171357.png",
+    "Hardware Engineering/attachments/Pasted image 20260416170827.png",
+    "Hardware Engineering/attachments/Pasted image 20260416170738.png",
+    "Hardware Engineering/attachments/Pasted image 20260416170510.png",
+    "Hardware Engineering/attachments/Pasted image 20260416170015.png",
+    "Hardware Engineering/attachments/Pasted image 20260416165804.png",
+    "Hardware Engineering/attachments/Pasted image 20260416165640.png",
+    "Hardware Engineering/attachments/Pasted image 20260416165624.png",
+    "Hardware Engineering/attachments/Pasted image 20260416165157.png",
     "Hardware Engineering/HE-200-15 The workflow for THT.md",
+    "Hardware Engineering/HE-200-16 Design Principles.md",
+    "Hardware Engineering/HE-200-18 Fundamental KiCad Tools.md",
+    "Hardware Engineering/Untitled 1.md",
+    "Hardware Engineering/HE-200-17 PCB layout workflow.md",
     "Hardware Engineering/HE-200-14 Schematic Design Workflow.md",
     "Editing/EDT-001 字体.md",
     "Editing/EDT-004 BGM.md",
@@ -343,7 +359,6 @@
     "Hardware Engineering/HE-001-4 DS18B20.md",
     "Hardware Engineering/HE-001-2 Buzzer.md",
     "copilot/copilot-conversations/API_Key_Error@20260409_163334.md",
-    "Source/S-016 Bus Station JB.md",
     "Editing/attachments",
     "Editing",
     "copilot/copilot-conversations",

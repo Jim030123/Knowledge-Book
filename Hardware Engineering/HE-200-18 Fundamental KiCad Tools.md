@@ -180,19 +180,73 @@ Right side: Can see the symbol in the preview pane.
 - 2 preview panes, there is a footprint dropdown.
 - Many symbols have more than 1 compatible footprint and use this dropdown to select the most appropriate footprint for project.
 ## Power symbol chooser
+![[Pasted image 20260416105736.png]]
 - A specialized version of symbol chooser. Can quickly find and add power-related symbol in the preview pane on the right of this window.
 - Invoked the power symbol chooser and have selected the +3.3VA symbol.
 - Power symbol don't have associated footprints because they don't have a physical representation on the final PCB.
 - Uses the power symbols during ERC to determine whether power pins are correctly wired.
 **Example**
 - Imagine a symbol, such as microcontroller that contains a pin configured as a power pin. If this pin is not connected to a compatible power symbol, the ERC will report this as violation.
-## Wire 
+## Wire
+![[Pasted image 20260416105721.png]]
 - Enable the wiring the witing tool can draw wires that connect pins.
 - The wire tool is automatically enabled that you can start drawing a new wire. Place the cursor over the pin circle and lick, the drawing ends.
 Click: To draw a wire, click on its button to enable the wire tool and left click anywhere in the editor to start drawing. Click again to create an angle and continue drawing.
 
 Double Click: End drawing.
 ![[Pasted image 20260416105430.png]]
-## Bus
+## Bus and bus entry
+![[Pasted image 20260416110021.png]]
+- Represents a collection of wires as a single thick line in the schematic.
+- Use 1 bus line for the address pins and one for data pins. The result is a cleaner-looking schematic.
+## No connect
+![[Pasted image 20260416110917.png]]
+- ERC will specifically look for unconnected pins and list them as a violation if it finds any.
+- To prevent the ERC from raising a fault flag for deliberately unconnected pins, can attach the "no connect" symbol.
+- Click on the "no connect" button on the right toolbar and then attach the "x" symbol on any pin that specially want to leave unconnected to another pin.
+- "No connect" symbol to prevent the ERC from flagging violation.
+![[Pasted image 20260416110923.png]]
 
+## Junction
+![[Pasted image 20260416111330.png]]
+- Can electrically connect 2 wires.
+- Consider 2 wires that are electrically connected with a junction below.
+- The green disc is the junction symbol and it electrically connect those 2 wires. Can move the junction or delete it as would with any other symbol. Click to select it and click-hold.
+**2 wires connected with a junction**
+![[Pasted image 20260416111050.png]]
+**2 wires are not connected**
+![[Pasted image 20260416111746.png]]
 
+- The removal of the junction made the 2 wires electrically unconnected. Move the junction back to the intersection between 2 wires to restore the electrical connection. 
+## Labels
+![[Pasted image 20260416113030.png]]
+- Alongside wires and buses, labels consist of another way to create connections between pins. Unlike wires and busses, labels use text to create named nets.
+- Help to create cleaner-looking schematics because they don't use wires. In schematic, can achieve the best results by combining net labels with wires and buses.
+![[Pasted image 20260416112245.png]]
+- Have used regular wires to connect pins to nearby symbol like the capacitor and resistor on the right.
+-  6 and 5 must connect to pins  in a symbol that is elsewhere in the schematic. Instead of using long wires with multiple 90-degree angle. Used the "SCL" and "SDA". This make easier for distinguish these important nets elsewhere in KiCad.
+**Eeshema has 3 types of label**
+1. Net label
+   Work within a single schematic sheet.
+2. Global labels
+   Labels work across all schematic sheets in a project.
+3. Hierarchical labels
+   These labels work with hierarchical sheet.
+# Hierarchical Sheet
+- Allow to create and work with hierarchical sheets.
+- Help break up a busy schematic sheet into 2 or simpler sheets.
+- Have the root sheet that contains a symbol that represents a second sheet.
+- Provides a way for the 2 sheets to hierarchical symbol to jump to the sheet it represents or use the navigator from the top toolbar.
+![[Pasted image 20260416114207.png]]
+## Graphics, text, images
+![[Pasted image 20260416115355.png]]
+![[Pasted image 20260416115358.png]]
+- Allow to draw simple line graphic, add text labels and insert images. Can use these tools to annotate schematic.
+![[Pasted image 20260416115257.png]]
+## Interactive delete
+![[Pasted image 20260416120000.png]]
+- Can click and delete any element in the schematic editor.
+- Interactive in the sense that it will highlight the element that you are about to delete, giving visual feedback.
+- Enabled the interactive delete tool by clicking on its button. The cursor becomes a virtual eraser.
+- Hover the curser over an editor highlights the element by changing its colours to purple.
+![[Pasted image 20260416115930.png]]
