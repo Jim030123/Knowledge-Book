@@ -127,3 +127,12 @@ Typically made of solid coated tungsten carbide material and size:
 ![[Pasted image 20260415122530.png]]
 - Cut to have openings of the exact size and the precise location of the board's pads. The technician will place the stencil over the board and then apply the paste remains on the pads only.
 - The components are placed on the pads and stick  on them because of the paste.
+- Reflow oven is an industrial sized machine used to complete  attaching SMD components on a PCB.
+# Pick and place
+- That assemble the various components on the surface of a circuit board.
+![[Pasted image 20260415122812.png]]
+**Includes:**
+- A repository of the various components that are to be placed on the board.
+- A conveyor belt that brings in the boards.
+- An inspection system composed of cameras that can optically recognize the board, components and other guidance markings on the boards.
+- A robotic arm that can pick a component from the repository and place it on the board.

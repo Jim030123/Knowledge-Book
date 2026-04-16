@@ -13,12 +13,82 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware Engineering/HE-200-1X Design Principles.md",
+                "file": "Hardware Engineering/HE-200-18 Fundamental KiCad Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HE-200-1X Design Principles"
+              "title": "HE-200-18 Fundamental KiCad Tools"
+            }
+          },
+          {
+            "id": "9dd49aa2387c8e14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Editing/EDT-002 音效.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EDT-002 音效"
+            }
+          },
+          {
+            "id": "237b10c824707668",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Editing/EDT-003  Adjustment Layer 调整图层.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EDT-003  Adjustment Layer 调整图层"
+            }
+          },
+          {
+            "id": "c173d253ad212d6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Editing/EDT-001 字体.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EDT-001 字体"
+            }
+          },
+          {
+            "id": "6c1822e1ada6f9f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hardware Engineering/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "7f366526713786e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hardware Engineering/HE-200-15 The workflow for THT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HE-200-15 The workflow for THT"
             }
           },
           {
@@ -81,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Soldermask",
+                "query": "Electrical Rules Check",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,44 +306,44 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "6d05d8da48b8c1a5",
+  "active": "f0273b2a94bd2ea9",
   "lastOpenFiles": [
-    "Hardware Engineering/attachments/Pasted image 20260415122530.png",
-    "Hardware Engineering/attachments/Pasted image 20260415122324.png",
+    "Hardware Engineering/attachments/Pasted image 20260416105430.png",
+    "Hardware Engineering/attachments/Pasted image 20260415124337.png",
+    "Hardware Engineering/HE-200-18 Fundamental KiCad Tools.md",
+    "Hardware Engineering/attachments/Pasted image 20260416102521.png",
+    "Hardware Engineering/attachments/Pasted image 20260416102445.png",
+    "Hardware Engineering/attachments/Pasted image 20260416101724.png",
+    "Hardware Engineering/attachments/Pasted image 20260416101704.png",
+    "Hardware Engineering/attachments/Pasted image 20260416100750.png",
+    "Hardware Engineering/attachments/Pasted image 20260416100301.png",
+    "Hardware Engineering/attachments/Pasted image 20260416100126.png",
+    "Hardware Engineering/attachments/Pasted image 20260416095913.png",
+    "Hardware Engineering/attachments/Pasted image 20260416095906.png",
+    "Hardware Engineering/HE-200-16 Design Principles.md",
+    "Hardware Engineering/HE-200-17 PCB layout workflow.md",
     "Hardware Engineering/HE-200-15 The workflow for THT.md",
-    "Hardware Engineering/HE-200-1X Design Principles.md",
-    "Hardware Engineering/attachments/Pasted image 20260415121859.png",
-    "Hardware Engineering/attachments/Pasted image 20260415121502.png",
-    "Hardware Engineering/attachments/Pasted image 20260415121442.png",
-    "Hardware Engineering/attachments/Pasted image 20260415120452.png",
-    "Hardware Engineering/attachments/Pasted image 20260415120040.png",
-    "Hardware Engineering/attachments/Pasted image 20260415120038.png",
-    "Hardware Engineering/attachments/Pasted image 20260415115500.png",
-    "Hardware Engineering/attachments/Pasted image 20260415115146.png",
-    "Hardware Engineering/attachments/Pasted image 20260415114618.png",
+    "Hardware Engineering/HE-200-14 Schematic Design Workflow.md",
+    "Editing/EDT-001 字体.md",
+    "Editing/EDT-004 BGM.md",
+    "Editing/EDT-003  Adjustment Layer 调整图层.md",
+    "Editing/EDT-002 音效.md",
+    "Hardware Engineering/Untitled.md",
+    "Hardware Engineering/HE-200-13 PCB Design WorkflowafaUntitled.md",
+    "Hardware Engineering/HE-200-14 Project information.md",
+    "Hardware Engineering/HE-200-12 Create a new project from Scratch.md",
+    "Hardware Engineering/HE-200-10 Calculator tools.md",
+    "Hardware Engineering/HE-200-6 Layout Editor.md",
+    "Hardware Engineering/HE-200-7 Footprint Editor and Library.md",
+    "Hardware Engineering/HE-200-99 Shortcut.md",
+    "Hardware Engineering/HE-200-98 Reference.md",
+    "Hardware Engineering/HE-200-3 Preference Window.md",
     "Hardware Engineering/HE-001-1 ESP32.md",
     "Hardware Engineering/HE-001-3 LED.md",
     "Hardware Engineering/HE-001-4 DS18B20.md",
     "Hardware Engineering/HE-001-2 Buzzer.md",
-    "Hardware Engineering/HE-200-14 Project information.md",
-    "Hardware Engineering/HE-200-98 Reference.md",
-    "Hardware Engineering/HE-200-99 Shortcut.md",
-    "Editing/EDT-001 字体.md",
-    "Editing/DET-002 音效.md",
     "copilot/copilot-conversations/API_Key_Error@20260409_163334.md",
     "Source/S-016 Bus Station JB.md",
-    "Source/S-015 Stellar.md",
-    "Hardware Engineering/HE-200-13 PCB Design Workflow.md",
-    "Hardware Engineering/HE-200-12 Create a new project from Scratch.md",
-    "Hardware Engineering/HE-200-1 Project manager.md",
-    "Hardware Engineering/HE-200 KiCad.md",
-    "English/ENG-007 Pronunciation.md",
-    "Hardware Engineering/HE-200-12 Configuration Path.md",
-    "Hardware Engineering/HE-200-11 Drawing Sheet editor.md",
-    "Hardware Engineering/HE-200-7 Footprint Editor and Library.md",
-    "Hardware Engineering/HE-200-8 Gerber Viewer.md",
-    "Hardware Engineering/HE-200-6 Layout Editor.md",
-    "Hardware Engineering/HE-200-4 Symbol Editor and Library.md",
     "Editing/attachments",
     "Editing",
     "copilot/copilot-conversations",

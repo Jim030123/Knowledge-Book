@@ -1,9 +1,6 @@
 # PCB Design Workflow
 ![[Pasted image 20260408110935.png]]
-# Schematic Design Workflow
-![[Pasted image 20260408111059.png]]
-# PCB Layout Workflow
-![[Pasted image 20260408111254.png]]
+
 # The finished KiCad project and directory
 **The top of the hierarchy tree in the project pane.** 
 - Schematic - .kicad_sch
