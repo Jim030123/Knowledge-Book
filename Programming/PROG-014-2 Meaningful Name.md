@@ -85,3 +85,83 @@ else
 	l = O1
 ```
 - Using a different font so that the differences were more obvious.
+# Make Meaningful Distinction
+- Cant use the same name to refer to 2 different things in the same scope, might be tempted to change 1 name in an arbitrary way.
+**Number-series naming**
+$$(a_{1},a_{2},\dots,a_{N})$$
+- They are not disinformative. They provide no clue to the author's intention.
+```java
+public static void copyChars(char a1[], char a2[]){
+	for (int i = 0; i <a1.length; i++){
+		a2[i] = a1[i];
+	}
+}
+```
+
+This function reads much more better when ***source*** and ***destination*** are used for the argument names.
+
+>[!example] Have a ***Product*** class.
+> - ***ProductInfo*** or ***ProductData*** made the names different without making them mean anything different.
+> - ***Info*** and ***Data*** are indistinct noise words like ***a***, ***an*** and ***the***.
+
+>[!note] Nothing wrong with using prefix convetion
+> - Decide to call a variable ***theZork*** because you already another variable named ***zork***.
+
+- ***Table*** should never appear in a table name.
+- ***Name*** should bever be a floating point number.
+```java
+getActiveAccount();
+getActiveAccounts();
+getActiveAccountInfo();
+```
+
+- ***moneyAmount*** is indistinguishable form ***money***.
+- ***customerInfo*** is indistinguishable from ***customer***.
+- ***accountData*** is indistinguishable from ***account***.
+- ***theMessage*** is indistinguishable from ***message***.
+## Use Pronounceable Names
+
+```java
+class DtaRrd102{
+	private Date genymdhms;
+	private Date modymdhms;
+	private final String pszqint = "102";
+}
+```
+
+to
+
+```java
+class Customer{
+	private Date generationTimestamp;
+	private Date modificationTimestamp;
+	private final String pszqint = "102";
+}
+```
+
+## Use Searchable Names
+- May turn up the digit as pat of file names, other constant definition and in various expressions where the values is used with different intent.
+- ***e*** is a poor choice for any variable for a programmer might need to search. It is the most common letter in the English language and likely to show up in every passage of text in every program.
+- The length of a name should correspond to the size of its scope.
+- Variable or constant might be seen or used in multiple places in a body of code, it is imperative to give it a search-friendly name.
+```java
+for (int j = 0;j < 34; j++){
+	s += (t[j] * 4) / 5;
+}
+```
+
+to 
+
+```java
+int realDaysPerIdealDay = 4;
+const int WORK_DAYS_PER_WEEK = 5;
+
+int sum = 0;
+
+for (int j = 0; j < NUMBER_OF_TASKS; j++){
+
+	int realTaskDays = taskEstimate[j] * realDaysPerIdealDay;
+	int realTaskWeeks = (realdays / WORK_DAYS_PER_WEEK);
+	sum += realTaskWeeks
+}
+```

@@ -258,4 +258,7 @@ Create a box with the approximate dimensions of my PCB and confirm that the foot
 ![[Pasted image 20260416171538.png]]
 ![[Pasted image 20260416171542.png]]
 1. Click on "Gerber Viewer"
-2. In Gerbview, go to the file and click on "Open Gerber Plot" 
+2. In Gerbview, go to the file and click on "Open Gerber Plot File" .
+3. Can import 1 gerber file except with the extension "gbrjob".
+4. Can enable and disable layers from the Layers tab of the Layers Manager. Take the necessary time to review each layer to ensure that there are no omissions or errors.
+![[Pasted image 20260416172109.png]]

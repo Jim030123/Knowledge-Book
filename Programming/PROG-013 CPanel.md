@@ -1,0 +1,2 @@
+- Suggest using AlmaLinux.
+- Bridge for VM setup.

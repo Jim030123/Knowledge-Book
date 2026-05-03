@@ -5,7 +5,7 @@ done: true
 - Generic and open. This is intentional that be applied across a large cross section of software systems. This generality can sometimes lead to ambiguity and confusion on the part of the developer.
 - Can be useful when developing software for specific platforms or system. The point is that there are some simple, straightforward things to consider when designing any  user interface.
 - Focused on users and strive to keep them in control of system. Applying these rules in a specific application can help create an interface that users will find both useful and usable.
-## 1. Visibility of system status
+1. Visibility of system status
 - Interface should have some mechanism for showing where users are in their task.
 ## 2. Match between system and the real world
 -  Interface should provide interaction that mimic or model what is expected in the real world.

@@ -4,136 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "387ce98738237515",
+        "id": "86e5246a94ec82eb",
         "type": "tabs",
         "children": [
           {
-            "id": "f0273b2a94bd2ea9",
+            "id": "52ad36ddf3b2fabd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware Engineering/HE-200-15 The workflow for THT.md",
+                "file": "Programming/PROG-014-2 Meaningful Name.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HE-200-15 The workflow for THT"
+              "title": "PROG-014-2 Meaningful Name"
             }
           },
           {
-            "id": "e2e78ba8dec0fdaa",
+            "id": "fc3ce410feda9f33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware Engineering/Untitled 1.md",
+                "file": "Programming/PROG-015-1 LightSail.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "9dd49aa2387c8e14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Editing/EDT-002 音效.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EDT-002 音效"
-            }
-          },
-          {
-            "id": "237b10c824707668",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Editing/EDT-003  Adjustment Layer 调整图层.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EDT-003  Adjustment Layer 调整图层"
-            }
-          },
-          {
-            "id": "c173d253ad212d6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Editing/EDT-001 字体.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EDT-001 字体"
-            }
-          },
-          {
-            "id": "6c1822e1ada6f9f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hardware Engineering/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "7f366526713786e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hardware Engineering/HE-200-15 The workflow for THT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HE-200-15 The workflow for THT"
-            }
-          },
-          {
-            "id": "190211c291e9e553",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Editing/EDT-001 字体.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EDT-001 字体"
-            }
-          },
-          {
-            "id": "f425a704b2c512eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Editing/DET-002 音效.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DET-002 音效"
+              "title": "PROG-015-1 LightSail"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Electrical Rules Check",
+                "query": "anac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -190,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b359fd795e30f6cd",
@@ -321,44 +223,44 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "f0273b2a94bd2ea9",
+  "active": "fc3ce410feda9f33",
   "lastOpenFiles": [
-    "Hardware Engineering/attachments/Pasted image 20260416171542.png",
-    "Hardware Engineering/attachments/Pasted image 20260416171538.png",
-    "Hardware Engineering/attachments/Pasted image 20260416171357.png",
-    "Hardware Engineering/attachments/Pasted image 20260416170827.png",
-    "Hardware Engineering/attachments/Pasted image 20260416170738.png",
-    "Hardware Engineering/attachments/Pasted image 20260416170510.png",
-    "Hardware Engineering/attachments/Pasted image 20260416170015.png",
-    "Hardware Engineering/attachments/Pasted image 20260416165804.png",
-    "Hardware Engineering/attachments/Pasted image 20260416165640.png",
-    "Hardware Engineering/attachments/Pasted image 20260416165624.png",
-    "Hardware Engineering/attachments/Pasted image 20260416165157.png",
-    "Hardware Engineering/HE-200-15 The workflow for THT.md",
-    "Hardware Engineering/HE-200-16 Design Principles.md",
-    "Hardware Engineering/HE-200-18 Fundamental KiCad Tools.md",
-    "Hardware Engineering/Untitled 1.md",
-    "Hardware Engineering/HE-200-17 PCB layout workflow.md",
-    "Hardware Engineering/HE-200-14 Schematic Design Workflow.md",
-    "Editing/EDT-001 字体.md",
-    "Editing/EDT-004 BGM.md",
-    "Editing/EDT-003  Adjustment Layer 调整图层.md",
+    "Programming/PROG-014-2 Meaningful Name.md",
+    "Programming/PROG-015-1 LightSail.md",
+    "Chinese/CHN-001 成语 1.md",
     "Editing/EDT-002 音效.md",
-    "Hardware Engineering/Untitled.md",
-    "Hardware Engineering/HE-200-13 PCB Design WorkflowafaUntitled.md",
-    "Hardware Engineering/HE-200-14 Project information.md",
-    "Hardware Engineering/HE-200-12 Create a new project from Scratch.md",
-    "Hardware Engineering/HE-200-10 Calculator tools.md",
+    "Editing/EDT-004 BGM.md",
+    "Editing/EDT-005 Masking.md",
     "Hardware Engineering/HE-200-6 Layout Editor.md",
-    "Hardware Engineering/HE-200-7 Footprint Editor and Library.md",
-    "Hardware Engineering/HE-200-99 Shortcut.md",
-    "Hardware Engineering/HE-200-98 Reference.md",
+    "Programming/PROG-006-18 Future Builder.md",
+    "Hardware Engineering/HE-002-3 HSPI and VSPI.md",
+    "Hardware Engineering/HE-002-5 Transmit (TX) and Received (RX).md",
     "Hardware Engineering/HE-200-3 Preference Window.md",
-    "Hardware Engineering/HE-001-1 ESP32.md",
-    "Hardware Engineering/HE-001-3 LED.md",
-    "Hardware Engineering/HE-001-4 DS18B20.md",
-    "Hardware Engineering/HE-001-2 Buzzer.md",
-    "copilot/copilot-conversations/API_Key_Error@20260409_163334.md",
+    "Programming/PROG-014-1 Pattern Matching With Regular Expression.md",
+    "Programming/PROG-013 CPanel.md",
+    "Programming/PROG-014 Why we need clean code.md",
+    "Programming/PROG-012 Anaconda.md",
+    "Software Engineering/SE-001-1 General HCI Design Principles (Nielsen's Usability Heuristics).md",
+    "Programming/PROG-010 Python Data Science.md",
+    "Source 邪修/S-022 封面分析.md",
+    "Source 邪修/S-017 视频剪辑.md",
+    "Source 邪修/S-019 选题.md",
+    "Source 邪修/S-021 关键字.md",
+    "Software Engineering/SE-001 Human-Computer Interface (HCI) Design.md",
+    "README.md",
+    "Programming/PROG-005-3 Numpy.md",
+    "Editing/attachments/Pasted image 20260423092758.png",
+    "Editing/attachments/Pasted image 20260423092126.png",
+    "Source 邪修/S-023 Synology.md",
+    "Editing/EDT-003 Adjustment Layer 调整图层.md",
+    "Editing/attachments/Pasted image 20260420113938.png",
+    "Editing/attachments/Pasted image 20260420101541.png",
+    "Editing/attachments/Pasted image 20260403211129.png",
+    "Source 邪修/attachments/Pasted image 20260417170909.png",
+    "Source 邪修/attachments/Pasted image 20260417163720.png",
+    "Source 邪修/attachments/Pasted image 20260417163639.png",
+    "Hardware Engineering/attachments/Pasted image 20260417151942.png",
+    "Hardware Engineering/attachments/Pasted image 20260417151914.png",
     "Editing/attachments",
     "Editing",
     "copilot/copilot-conversations",
