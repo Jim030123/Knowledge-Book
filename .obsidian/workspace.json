@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "86e5246a94ec82eb",
+        "id": "82722821c44485cb",
         "type": "tabs",
         "children": [
           {
-            "id": "52ad36ddf3b2fabd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/PROG-014-2 Meaningful Name.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PROG-014-2 Meaningful Name"
-            }
-          },
-          {
-            "id": "fc3ce410feda9f33",
+            "id": "411f53b4c1a9e59e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "PROG-015-1 LightSail"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b359fd795e30f6cd",
@@ -223,9 +209,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "fc3ce410feda9f33",
+  "active": "411f53b4c1a9e59e",
   "lastOpenFiles": [
+    "Programming/attachments/Pasted image 20260505211416.png",
     "Programming/PROG-014-2 Meaningful Name.md",
+    "Hardware Engineering/Untitled.md",
     "Programming/PROG-015-1 LightSail.md",
     "Chinese/CHN-001 成语 1.md",
     "Editing/EDT-002 音效.md",
@@ -251,8 +239,6 @@
     "Programming/PROG-005-3 Numpy.md",
     "Editing/attachments/Pasted image 20260423092758.png",
     "Editing/attachments/Pasted image 20260423092126.png",
-    "Source 邪修/S-023 Synology.md",
-    "Editing/EDT-003 Adjustment Layer 调整图层.md",
     "Editing/attachments/Pasted image 20260420113938.png",
     "Editing/attachments/Pasted image 20260420101541.png",
     "Editing/attachments/Pasted image 20260403211129.png",
