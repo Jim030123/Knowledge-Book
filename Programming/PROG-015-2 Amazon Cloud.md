@@ -35,3 +35,16 @@
   This approach is ideal for situations where legacy application must remain on premises due to maintenance preferences or regulatory requirement.
   
   A company might choose to retain certain regulated legacy application on-premises while using cloud services for advanced data processing and analytics.
+## Advantage
+- Trade fixed expense for variable expense
+  Businesses  can transition from fixed investment to variable costs. With variable costs, customer expenses are better aligned with actual usage, thus creating more financial flexibility.
+- Benefit from massive economies of scale
+  Can be used by many organizations, from small startups to major corporations. Businesses big and small can access advanced technologies that were previously only accessible to large enterprises.
+- Stop guessing capacity
+  Can dynamically scale AWS Cloud resources up or down based on real-time demand. This means businesses can achieve optimal performance without provisioning more or less infrastructure than they need.
+- Increase speed and agility
+  Accelerating time to market and facilitating time to market and facilitating quicker responses to changing business needs and market conditions.
+- Stop spending money to run and maintain data centres
+  Customer aren't required to spend time and money on utilities and ongoing maintenance. With AWS taking care of the physical infrastructure of the cloud, customer resources can be reallocated to more strategies initiatives.
+- Go global in minutes
+  Businesses don't need to set up their own infrastructure to expand internationally. AWS provides a robust global infrastructure that customers can use to deploy applications and services across multiple areas in minutes.
