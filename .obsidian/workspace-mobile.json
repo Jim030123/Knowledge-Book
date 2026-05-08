@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "794f4b0efd32bff3",
+    "type": "split",
+    "children": [
+      {
+        "id": "70857d41973dd4c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dade7305ad90718",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7db6a563ffad7548",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4828627b56bc5507",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "89011c0e51eaf0db",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "773c49a86b407120",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "d64d51ee40e69f74",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "添加笔记属性"
+        }
+      },
+      {
+        "id": "3eca0c6e2961e712",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "92a993a7e9ebc769",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "32ceca81542e2348",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Programming/Untitled.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "28620c54575d8122",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Programming/PROG-011-2 Meaningful Name.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "c59da2e42397afeb",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Programming/Untitled.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      },
+      {
+        "id": "50112f8ef98879eb",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3,
+    "pinned": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "random-note:开始漫游笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "50112f8ef98879eb",
+  "lastOpenFiles": [
+    "Programming/Untitled.md",
+    "Programming/PROG-015-3 Compute in the Cloud.md",
+    "Source 邪修/S-028 Idea for Life Ranking.md",
+    "Software Engineering/Google Calendar.md",
+    "Programming/attachments/Pasted image 20260507214324.png",
+    "Programming/attachments/Pasted image 20260507213628.png",
+    "Programming/attachments/Pasted image 20260507213228.png",
+    "Programming/attachments/Pasted image 20260507212401.png",
+    "Programming/attachments/Pasted image 20260507212030.png",
+    "Programming/attachments/Pasted image 20260507122457.png",
+    "Programming/attachments/Pasted image 20260507120336.png",
+    "Programming/attachments/Pasted image 20260507120059.png",
+    "Programming/attachments/Pasted image 20260507115712.png",
+    "Programming/attachments/Pasted image 20260507112704.png",
+    "Programming/Untitled 1.md",
+    "Programming/PROG-015-2 Amazon Cloud.md",
+    "Hardware Engineering/HE-200-98 Reference.md",
+    "Source 邪修/S-027 Ghost Setup.md",
+    "Source 邪修/S-026 WD External Hard Disk.md",
+    "Source 邪修/S-025 USB.md",
+    "Source 邪修/S-024 Acer Nitro 5-515 57.md",
+    "Programming/PROG-015-1 LightSail.md",
+    "Hardware Engineering/HE-200-21 Foot Assignment Tool.md",
+    "Hardware Engineering/HE-200-18 Fundamental KiCad Tools.md",
+    "Hardware Engineering/HE-200-17 PCB layout workflow.md",
+    "Hardware Engineering/HE-200-11 Drawing Sheet editor.md",
+    "Programming/PROG-014-2 Meaningful Name.md",
+    "Hardware Engineering/HE-200-19 Schematic Editor Preferences.md",
+    "Hardware Engineering/HE-200-16 Design Principles.md",
+    "Hardware Engineering/HE-200-14 Schematic Design Workflow.md",
+    "Hardware Engineering/HE-200-13 PCB Design WorkflowafaUntitled.md",
+    "Programming/PROG-011-2 Meaningful Name.md",
+    "Source 邪修/attachments",
+    "Source 邪修/S-023 Synology.md",
+    "Source 邪修/S-022 封面分析.md",
+    "Source 邪修/S-021 关键字.md",
+    "Source 邪修/S-020 封面和标题公式.md",
+    "Source 邪修"
+  ]
+}
