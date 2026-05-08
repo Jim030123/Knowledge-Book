@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Programming/Untitled.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -184,7 +184,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "50112f8ef98879eb",
+  "active": "46686d169ec3c04b",
   "lastOpenFiles": [
     "Programming/PROG-015-3 Compute in the Cloud.md",
     "Programming/Untitled.md",
