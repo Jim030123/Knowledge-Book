@@ -48,3 +48,37 @@
   Customer aren't required to spend time and money on utilities and ongoing maintenance. With AWS taking care of the physical infrastructure of the cloud, customer resources can be reallocated to more strategies initiatives.
 - Go global in minutes
   Businesses don't need to set up their own infrastructure to expand internationally. AWS provides a robust global infrastructure that customers can use to deploy applications and services across multiple areas in minutes.
+
+# AWS Regions and Availability Zones
+- Consists of physical locations around the world that contain group of data centers.
+![[Pasted image 20260507091632.png]]
+1. Physical locations around the world that contain groups of data centres. These groups of data centers are called Availability Zones. Each AWS Region consists of a minimum of 3 physical separate Availability Zones within a geographic area.
+2. Availability Zones consists of 1 or more data centers with reductant power, networking and connectivity. Regions and Availability Zones are designed to provide low-latency, fault- tolerant access to services for users within a given area.
+## Achieving high availability with AWS Global Infrastructure
+- If 1 AZ encounters an outage, business applications will continue operate without interruption. With this approach of redundancy and resource isolation, AWS customers can achieve the benefit of high availability and fault tolerance.
+# AWS Shared Responsibility Model
+**Lesson Objective**
+- Describe and differentiate between customer responsibilities, AWS responsibilities and shared responsibilities in the AWS Cloud.
+- Describe the components of the AWS Shared Responsibility Model.
+
+![[Pasted image 20260507093306.png]]
+
+1. **Customer Responsibility**
+   Responsible for managing security requirements for their data including which data they store on AWS and who has access to that data. Customers also control how access to the data is granted, managed and revoked.
+2. **Customer on AWS Responsibility**
+   Server-side encryption, network traffic protection, platform and application management and OS, network and firewall configuration vary by service in terms of who is responsible for these items.
+
+3. **AWS responsibility**
+   Protecting the infrastructure that runs all of the services offered in the AWS Cloud. This infrastructure is composed of the hardware, software, networking and facilities that run AWS Cloud services.
+# Applying Cloud Concepts to Real Life Use Cases
+**Lesson Objective**
+- Explain how fundamental cloud concepts such as the AWS Global infrastructure and AWS Shared Responsibility Model, work together to form real-world business solutions.
+![[Pasted image 20260507094713.png]]
+1. Ecommerce company expansion
+   The company wants to expand to global locations. However, the further the computing infrastructure is from their customers, the longer the latency. The company decides to expand to global AWS Regions to better reach their global customers.
+2. Global expansion 1: Ireland
+   Deploying in multiple Regions increases high availability. The company increases fault-tolerance and high availability Zones in this Region.
+   Company does not need to worry about securing the physical infrastructure is an AWS responsibility. The company can instead focus on securing and encrypting their data within their cloud resources.
+3. Global expansion 2: Singapore
+   The company has a significant customer base in Asia too. They deploy resources to Region in Singapore.
+   Rather than having to set up physical infrastructure at an international scale which can take months or years, the company used AS to deploy global operations within a matter of minutes.

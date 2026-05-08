@@ -55,17 +55,46 @@ flowchart TD
 	 C[Will have the system]
 ```
 
-### 1. Identifying the user classes
+1. **Identifying the user classes**
 - A user class is a set of users who share common tasks with the software. Consider a student information system that may be used by a university^[Student and Faculty]. Other classes might not be immediately obvious could include department chairs, registrar, advisors, enrolment management staff and financial aid staff.
 
 >[!example] A single person could take on the characteristics of multiple classes.
 >A faculty member could also be an advisor and a department chair. Each of the user classes to which a user belongs contributes to the type of work that user should be to perform with the software.
 
-### 2. Necessary to hold requirements meeting with representatives of each classes
+2. **Necessary to hold requirements meeting with representatives of each classes**
 - Meeting should elicit the tasks that the target user class should be able to do with software as well as tasks that would be "nice" to have.
 - Similar to software architects, it is  common for user interface designers to go back and forth  between requirement and design, until the interface is sufficiently appropriate to accommodate the needs of users of each class.
 
-### 3. Will have the system
+3. **Will have the system**
 - Challenging thing for software engineers: to disconnect from the system they are designing and try to see the world through the eyes of the end user.
 - It is tempting to simply design and interface that meets the needs of the engineer or developer^[Testing and verigication] instead of designing an interface that meets the needs of the end user.
 - Software developers to maintain a clear focus on the end user while developing the user interface for a system.
+>[!example] Google Calendar
+>
+> ![[Pasted image 20250822163400.png]]
+>
+> - Creating an appointment relies mostly on direct manipulation — directly clicking on the desired day, typing in the description, including the time, and pressing the return key.
+> - There is also a button that allows users to add appointments by filling in a form. Some users may prefer this method, especially for events that occur in the future, since direct manipulation would require navigating through the calendar.
+>
+> ### General HCI Design Principles
+>
+> **Visibility of system status**  
+> Shows an entire month of appointments in the expected monthly format. A created appointment appears immediately within the selected day.
+>
+> **Error prevention**  
+> Error conditions are displayed prominently at the top centre of the display in red text.
+>
+> **Match between system and the real world**  
+> The interface closely mimics a real desktop calendar and strongly utilizes the calendar metaphor.
+>
+> **Consistency and standard**  
+> The form and layout closely resemble other calendar applications, maintaining consistency and standards.
+>
+> **Help users recognize, diagnose and recover from error**  
+> Error messages clearly indicate problems so users can identify and recover from mistakes easily.
+>
+> **Help and documentation**  
+> Help is available through pop-up labels and hover tooltips.
+>
+> **Aesthetic and minimalist design**  
+> Only necessary information is displayed, while additional functionality is hidden within submenus to keep the interface clean and simple.
