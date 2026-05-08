@@ -153,19 +153,9 @@
           "icon": "lucide-list",
           "title": "大纲"
         }
-      },
-      {
-        "id": "50112f8ef98879eb",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,15 +169,14 @@
       "random-note:开始漫游笔记": false,
       "audio-recorder:开始/结束录音": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "copilot:Open Copilot Chat": false
     }
   },
   "active": "46686d169ec3c04b",
   "lastOpenFiles": [
-    "Programming/PROG-015-3 Compute in the Cloud.md",
     "Programming/Untitled.md",
+    "Programming/PROG-015-3 Compute in the Cloud.md",
     "Source 邪修/S-028 Idea for Life Ranking.md",
     "Software Engineering/Google Calendar.md",
     "Programming/attachments/Pasted image 20260507214324.png",
