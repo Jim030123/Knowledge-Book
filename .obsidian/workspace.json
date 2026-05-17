@@ -13,12 +13,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/PROG-015-3 Compute in the Cloud.md",
+                "file": "GIT/GIT-100-1 GitHub Page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROG-015-3 Compute in the Cloud"
+              "title": "GIT-100-1 GitHub Page"
+            }
+          },
+          {
+            "id": "5f633b2177855cb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/PROG-014-2 Meaningful Name.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PROG-014-2 Meaningful Name"
+            }
+          },
+          {
+            "id": "0446af1e92231273",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source 邪修/S-029 AI Music.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S-029 AI Music"
+            }
+          },
+          {
+            "id": "8933fe1fb8792e46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/PROG-016-1 Laravel Update.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PROG-016-1 Laravel Update"
+            }
+          },
+          {
+            "id": "e4b8e0c408822252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Job/JOB-001.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JOB-001"
             }
           },
           {
@@ -27,15 +83,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Untitled 1.md",
+                "file": "Chinese/CHN-001 成语 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "CHN-001 成语 1"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -67,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anac",
+                "query": "字体",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,44 +279,45 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b3edb3a2fb06140f",
+  "active": "ebb98480cf716a51",
   "lastOpenFiles": [
+    "Chinese/CHN-000 Table of Content.md",
+    "Editing/EDT-001 字体.md",
+    "English/ENG-003-9 Phrasal Word - Pick.md",
+    "Editing/EDT-003 Adjustment Layer 调整图层.md",
+    "Editing/EDT-004 BGM.md",
+    "English/ENG-001-1 Vocabulary Soph-.md",
+    "English/ENG-000 Table of Content.md",
+    "English/ENG-002 Tenses.md",
+    "Editing/EDT-006 PR.md",
+    "English/ENG-003-8 Phrasal Word - Make.md",
+    "English/ENG-003-7 Phrasal Word - Keep.md",
+    "English/ENG-006 Interpreting Graphical Data.md",
+    "English/ENG-005-6 Comparison.md",
+    "English/ENG-005-4 Contrast.md",
+    "S-030 LLAMA.md",
+    "Software Engineering/SE-005-1 Designer's Mental Model.md",
+    "English/ENG-007-1.md",
+    "Editing/EDT-005 Masking.md",
+    "Editing/attachments/Pasted image 20260515114036.png",
+    "Editing/EDT-002 音效.md",
+    "Source 邪修/S-028 Idea for Life Ranking.md",
+    "Job/JOB-001.md",
+    "Programming/PROG-016-1 Laravel Update.md",
+    "Source 邪修/S-029 AI Music.md",
+    "Job",
+    "Source 邪修/S-030 Powertoys.md",
+    "Source 邪修/attachments/Pasted image 20260513101857.png",
+    "Source 邪修/attachments/Pasted image 20260513101332.png",
+    "Programming/PROG-014-99 Naming Rules.md",
+    "Programming/PROG-014-2 Meaningful Name.md",
+    "Editing/attachments/Pasted image 20260510183304.png",
+    "Editing/attachments/Pasted image 20260510183249.png",
     "Programming/attachments/Pasted image 20260507214324.png",
     "Programming/attachments/Pasted image 20260507213628.png",
-    "Programming/PROG-015-2 Amazon Cloud.md",
-    "Programming/PROG-015-3 Compute in the Cloud.md",
     "Programming/attachments/Pasted image 20260507213228.png",
-    "Programming/Untitled 1.md",
     "Programming/attachments/Pasted image 20260507212401.png",
     "Programming/attachments/Pasted image 20260507212030.png",
-    "Source 邪修/S-028 Idea for Life Ranking.md",
-    "Source 邪修/S-027 Ghost Setup.md",
-    "Programming/PROG-015-1 LightSail.md",
-    "Programming/attachments/Pasted image 20260507122457.png",
-    "Programming/attachments/Pasted image 20260507120336.png",
-    "Programming/attachments/Pasted image 20260507120059.png",
-    "Programming/attachments/Pasted image 20260507115712.png",
-    "Programming/attachments/Pasted image 20260507112704.png",
-    "Software Engineering/Google Calendar.md",
-    "Software Engineering/SE-001 Human-Computer Interface (HCI) Design.md",
-    "Source 邪修/S-026 WD External Hard Disk.md",
-    "Source 邪修/S-025 USB.md",
-    "Software Engineering/SE-001-1 General HCI Design Principles (Nielsen's Usability Heuristics).md",
-    "Programming/Untitled.md",
-    "Software Engineering/SE-003-2 SD Challenges.md",
-    "Software Engineering/SE-002-3 Minimizing Complexity in Complexity.md",
-    "Software Engineering/SE-002-2 Software Constructions Using Styles.md",
-    "Software Engineering/SE-002 Principles of Construction Design (CD).md",
-    "Software Engineering/SE-001-2 HCI Interface Design Method.md",
-    "Software Engineering/SE-002-1 Behavioural Construction Design (BCD).md",
-    "Software Engineering/SE-002-4 Quality Evaluation of CD.md",
-    "Software Engineering/SE-003 Software Engineering Design (SED).md",
-    "Software Engineering/SE-003-1 Engineering Design.md",
-    "Software Engineering/SE-004 Principle of Software Architecture.md",
-    "Software Engineering/SE-001-3 Evaluation of HCI Quality.md",
-    "Hardware Engineering/HE-101 Breadboard Friendly Setup.md",
-    "Hardware Engineering/HE-100 ESP32.md",
-    "Programming/attachments/Pasted image 20260507105350.png",
     "Editing/attachments",
     "Editing",
     "copilot/copilot-conversations",
@@ -268,7 +326,6 @@
     "Hardware Engineering/attachments",
     "GIT/TOC.base",
     "Hardware Engineering",
-    "Virtual Machine",
-    "Powerpoint/attachments"
+    "Virtual Machine"
   ]
 }
